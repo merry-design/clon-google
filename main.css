@@ -189,14 +189,15 @@ main .main-input input{
      padding-left: 0;
    }
 
-   footer .footer-left{
+   footer ul.footer-left{
     justify-self: left;
-    margin-left: 36px;
+    margin-left: 25%;
    }
 
-   footer .footer-right{
+   footer ul.footer-right{
     justify-self: right;
-    margin-left: 33px;
+    margin-right: 5%;
+    margin-left: 10%;
    }
 
    footer ul li a{
