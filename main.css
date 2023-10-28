@@ -189,18 +189,18 @@ main .main-input input{
      padding-left: 0;
    }
 
-   footer ul.footer-left{
+   footer div.footer-left{
     justify-self: left;
     margin-left: 25%;
    }
 
-   footer ul.footer-right{
+   footer div.footer-right{
     justify-self: right;
     margin-right: 5%;
     margin-left: 10%;
    }
 
-   footer ul li a{
+   footer div a{
     margin: 12px;
     color: #5f6368;
    }
